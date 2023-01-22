@@ -14,6 +14,8 @@ namespace UnitTests.NUnit
          * 2. Open "Manage NuGet Packages"
          * 3. Search for "NUnit"
          * 4. Install "NUnit"
+         * 5. Install "Microsoft.NET.Test.Sdk
+         * 6. Install NUnit3TestAdapter
          */
         #endregion
     }
