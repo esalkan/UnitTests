@@ -1,0 +1,7 @@
+﻿	SUMMARY
+
+	-» Unit testing requires a special UnitTest runner.
+	-» Inspects our executable through reflection
+	-» Finds all tests and executes them
+	-» Reports the result
+	-» Different test runners exist: integrted & standalone
