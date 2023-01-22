@@ -1,0 +1,10 @@
+﻿What NUnit is fundamentally built on?
+
+	-» Assertion is quite simply a statement which asserts that some condition should hold after a certaion operation.
+
+	Overwiev
+	-» Basic Assertions and Possible Test Results
+	-» Warnings
+	-» Arrange, Act, Assert (AAA)
+	-» Multiple Assertions
+	-» Exceptions
