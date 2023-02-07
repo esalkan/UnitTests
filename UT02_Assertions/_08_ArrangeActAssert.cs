@@ -52,6 +52,10 @@ namespace UnitTests.UT02_Assertions
     {
         private BankAccount ba;
 
+        /*
+         * The SetUp attribute means that whenever we run any test this method
+         * gets called before the test is actually run.
+         */
         [SetUp]
         public void SetupOne()
         {
